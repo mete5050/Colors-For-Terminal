@@ -1,3 +1,4 @@
+normal = '\033[0m'
 kirmizi= '\033[31m'
 yesil= '\033[32m'
 sari= '\033[33m'
